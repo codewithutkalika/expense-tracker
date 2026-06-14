@@ -10,7 +10,7 @@ A full-stack expense tracking web application built with Python Flask and SQLite
 - Categories: Food, Travel, Shopping, Bills, Education, Health, Entertainment
 
 ## Tech Used
-HTML | CSS | JavaScript | Python | Flask | SQLite
+Python | Flask | SQLite3 | HTML | CSS | JavaScript
 
 ## How to Run
 1. Clone this repository
